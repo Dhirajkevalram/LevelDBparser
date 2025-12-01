@@ -24,12 +24,18 @@ STEP 5) Make sure WSL2 is active:
 
         wsl --set-default-version 2
   
-STEP 6) Navigate to your folder: cd ~/path/to/your/project 
+STEP 6) Navigate to your folder: 
+
+        cd ~/path/to/your/project 
 
 STEP 7) Install all dependencies using 
+         
           python3 -m pip install --upgrade pip
           pip install plyvel python-snappy pandas PySide6 leveldb
+              
               and Run the Python Script  using
+                    
+                    
                     python3 LevelDBparser.py
 
 You are now ready to run Linux GUI forensic tools inside Windows.
