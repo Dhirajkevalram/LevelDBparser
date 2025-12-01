@@ -1,0 +1,5 @@
+WSL
+plyvel
+python-snappy
+pandas
+PySide6
