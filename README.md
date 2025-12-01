@@ -9,11 +9,15 @@ STEP 1) Open **PowerShell** as Administrator
 Press Start → type *PowerShell* → Right-click → **Run as Administrator**
 
 STEP 2)  Install WSL + Ubuntu  
+
         ```powershell
         wsl --install
+
+
 STEP 3) Restart your PC
 
 STEP 4) Complete Ubuntu setup
+       
         Create: Linux Username and  Linux Password
 
 STEP 5) Make sure WSL2 is active:
