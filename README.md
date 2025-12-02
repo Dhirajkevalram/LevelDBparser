@@ -6,6 +6,7 @@ A powerful GUI-based tool for parsing and analyzing LevelDB databases.
 To run this tool on Windows with full GUI support, you must first install WSL (Windows Subsystem for Linux).
 
 STEP 1) Open **PowerShell** as Administrator  
+
 Press Start → type *PowerShell* → Right-click → **Run as Administrator**
 
 STEP 2)  Install WSL + Ubuntu  
